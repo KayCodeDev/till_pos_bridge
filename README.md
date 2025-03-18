@@ -1,7 +1,8 @@
-# Payant Merchant API for PWT
+# Till POS Device Bridge.
+A webservice and a TCP Socket services which bridge transaction TILL cash machines with Card Payment POS terminals for wireless POS payment integration
 
 ### Author
-# Kenneth O
+# Kenneth I
 
 ### Tech
 
@@ -27,7 +28,7 @@ This project uses a number of open source projects to work properly:
 git clone [Project Repo]
 
 # Get into the directory
-cd payant_merchant
+cd till_pos_bridge
 
 # Make it your own
 rm -rf .git && git init
