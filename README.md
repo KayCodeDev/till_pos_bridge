@@ -1,4 +1,5 @@
-# Payant Merchant API for PWT
+# Till POS Device Bridge.
+A webservice and a TCP Socket services which bridge transaction TILL cash machines with Card Payment POS terminals for wireless POS payment integration
 
 ### Author
 # Kenneth I
